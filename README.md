@@ -1,24 +1,5 @@
 # Nexus
 
-<p align="center">
-  <img src="https://via.placeholder.com/200x200" alt="Nexus Flow Logo" width="200"/>
-</p>
-
-<p align="center">
-  <strong>Multi-Agent Recursive-Thought Code Generation Platform</strong>
-</p>
-
-<p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#key-components">Key Components</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#use-cases">Use Cases</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contribution">Contribution</a> •
-  <a href="#license">License</a>
-</p>
-
 ## Overview
 
 Nexus is an advanced AI-powered software development platform that automates the entire software development lifecycle through a coordinated multi-agent system with recursive self-improvement capabilities. By orchestrating specialized AI agents—each responsible for a distinct phase of the development process—Nexus Flow can transform high-level requirements into production-ready codebases with minimal human intervention.
